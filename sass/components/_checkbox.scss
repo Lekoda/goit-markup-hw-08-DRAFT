@@ -1,52 +1,52 @@
-.form-policy {
-    display: flex;
-    max-width: 423px;
-    height: 24px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    justify-content: center;
-    align-items: center;
-}
+// .form-policy {
+//     display: flex;
+//     max-width: 423px;
+//     height: 24px;
+//     margin-top: 20px;
+//     margin-bottom: 20px;
+//     justify-content: center;
+//     align-items: center;
+// }
 
-.label-policy {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
+// .label-policy {
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+//     gap: 8px;
 
-    margin-left: 0;
-    font-family: inherit;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 1.7142;
-    letter-spacing: 0.03em;
-    color: var(--text-lightgrey-color);
+//     margin-left: 0;
+//     font-family: inherit;
+//     font-weight: 400;
+//     font-size: 14px;
+//     line-height: 1.7142;
+//     letter-spacing: 0.03em;
+//     color: var(--text-lightgrey-color);
 
-    & span {
-            display: flex;
-            align-items: center;
-            justify-content: center;
+//     & span {
+//             display: flex;
+//             align-items: center;
+//             justify-content: center;
     
-            width: 16px;
-            height: 15px;
-            border: 2px solid #212121;
-            border-radius: 2px;
-            fill: transparent;
+//             width: 16px;
+//             height: 15px;
+//             border: 2px solid #212121;
+//             border-radius: 2px;
+//             fill: transparent;
     
-            transition-property: border, background-color, fill;
-            transition-duration: 250ms;
-            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        }
-}
+//             transition-property: border, background-color, fill;
+//             transition-duration: 250ms;
+//             transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+//         }
+// }
 
 
 
-.policy-checkbox:checked+.label-policy span {
-    border: none;
-    background-color: var(--accent);
-    fill: var(--primary-bcg-color);
-}
+// .policy-checkbox:checked+.label-policy span {
+//     border: none;
+//     background-color: var(--accent);
+//     fill: var(--primary-bcg-color);
+// }
 
-.link-policy {
-    color: var(--accent);
-}
+// .link-policy {
+//     color: var(--accent);
+// }

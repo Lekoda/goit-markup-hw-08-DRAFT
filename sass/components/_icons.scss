@@ -1,65 +1,65 @@
-.icon-antenna::before {
-    background-image: url(../images/antenna.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
+// .icon-antenna::before {
+//     background-image: url(../images/antenna.svg);
+//     background-repeat: no-repeat;
+//     background-position: center;
+// }
 
-.icon-clock::before {
-    background-image: url(../images/clock.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
+// .icon-clock::before {
+//     background-image: url(../images/clock.svg);
+//     background-repeat: no-repeat;
+//     background-position: center;
+// }
 
-.icon-diagram::before {
-    background-image: url(../images/diagram.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
+// .icon-diagram::before {
+//     background-image: url(../images/diagram.svg);
+//     background-repeat: no-repeat;
+//     background-position: center;
+// }
 
-.icon-astronaut::before {
-    background-image: url(../images/astronaut.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-}
+// .icon-astronaut::before {
+//     background-image: url(../images/astronaut.svg);
+//     background-repeat: no-repeat;
+//     background-position: center;
+// }
 
-// signup form 
-.sign-icon {
-    margin-left: 10px;
-    /* align-self: auto; */
-    /* margin-top: 13px; */
-    width: 24px;
-    height: 24px;
-    fill: currentColor;
-}
+// // signup form 
+// .sign-icon {
+//     margin-left: 10px;
+//     /* align-self: auto; */
+//     /* margin-top: 13px; */
+//     width: 24px;
+//     height: 24px;
+//     fill: currentColor;
+// }
 
-// modal 
-.close-btn-icon {
-    width: 18px;
-    height: 18px;
-    fill: currentColor;
+// // modal 
+// .close-btn-icon {
+//     width: 18px;
+//     height: 18px;
+//     fill: currentColor;
 
-    transition-property: fill;
-    transition-duration: 250ms;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    &:hover,
-    &:focus {
-            fill: var(--accent);
-        }
-}
+//     transition-property: fill;
+//     transition-duration: 250ms;
+//     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+//     &:hover,
+//     &:focus {
+//             fill: var(--accent);
+//         }
+// }
 
 
 
-// form 
-.modal-icon {
-    position: absolute;
-    left: 12px;
-    top: 50%;
+// // form 
+// .modal-icon {
+//     position: absolute;
+//     left: 12px;
+//     top: 50%;
 
-    transition-property: fill;
-    transition-duration: 250ms;
-    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+//     transition-property: fill;
+//     transition-duration: 250ms;
+//     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 
-    .modal-input:focus+& {
-            fill: var(--accent);
-        }
-}
+//     .modal-input:focus+& {
+//             fill: var(--accent);
+//         }
+// }
